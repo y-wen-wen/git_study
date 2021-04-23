@@ -1,0 +1,6 @@
+
+setup function:每个不在类中的用例开始前会执行
+
+正在执行测试模板：test two
+
+teardown function:，每个不在类中的用例结束后会执行

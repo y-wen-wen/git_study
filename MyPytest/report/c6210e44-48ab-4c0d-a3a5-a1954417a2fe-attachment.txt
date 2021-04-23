@@ -1,0 +1,8 @@
+
+setup class:class类里面所有用例执行前执行
+
+setup:每个用例开始前都会执行
+
+正在执行测试模板：test three
+
+teardown:每个用例结束后执行

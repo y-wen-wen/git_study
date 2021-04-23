@@ -1,0 +1,10 @@
+
+setup:每个用例开始前都会执行
+
+正在执行测试模板：test four
+
+teardown:每个用例结束后执行
+
+teardown class:class类里面所有用例执行后执行 
+
+￥￥￥teardown module:整个模板中结束只执行一次
